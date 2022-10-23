@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project for improuve my skills on programming web pages. The main pourpose is to use web creating as well as  programming tools to setup a right environment for this issue (HTMLCSS+JS)
